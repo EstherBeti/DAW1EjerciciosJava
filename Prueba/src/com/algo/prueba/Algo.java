@@ -6,6 +6,7 @@ public class Algo {
 
 	
 		System.out.println("Algo");
+		System.out.println("prueba");
 	}
 
 }
